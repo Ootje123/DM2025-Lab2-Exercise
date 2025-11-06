@@ -1,7 +1,16 @@
 __pycache__
 .DS_Store
 config/.env
+venv/
+venv311/
+.env/
+.env*/
 .venv/
+.venv*/
+__pycache__/
+venv.bak/
+venv
 *.bin
 *.gz
+
 
